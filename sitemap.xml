@@ -1,15 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://a7cheeze.github.io/blog/archives/</loc>
+        <loc>http://a7cheeze.me/blog/2013/06/26/learningblog/</loc>
         <lastmod>2013-12-29T22:23:43+08:00</lastmod>
     </url>
     <url>
-        <loc>http://a7cheeze.github.io/</loc>
+        <loc>http://a7cheeze.me/blog/2013/06/26/how-to-write-a-blog/</loc>
         <lastmod>2013-12-29T22:23:43+08:00</lastmod>
     </url>
     <url>
-        <loc>http://a7cheeze.github.io/robots.txt</loc>
+        <loc>http://a7cheeze.me/blog/2013/07/02/fdu-cafe/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/07/23/to-do-list/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/07/28/coffeebean-july/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/08/03/ice-coffee/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/08/04/ice-coffee/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/09/07/coffeebean-august/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/09/13/mobile/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/09/16/lessons/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/10/16/nomoney/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/10/23/curry/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/10/27/soup/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/10/30/panna-cotta/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/11/06/egg-wine/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/11/06/orangejam/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/11/09/pizza/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/2013/11/14/candy/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/blog/archives/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/</loc>
+        <lastmod>2013-12-29T22:23:43+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://a7cheeze.me/robots.txt</loc>
         <lastmod>2013-12-29T22:23:43+08:00</lastmod>
     </url>
 </urlset>
