@@ -1,0 +1,10 @@
+---
+layout: post
+title: "crema"
+date: 2013-06-26 15:57
+comments: true
+categories: 
+published: false
+---
+
+{% img /images/2013/06/IMG_3076.jpg %}
